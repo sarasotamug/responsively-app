@@ -42,7 +42,7 @@
 
 <p align="center">
   Download Now (free!): <a href="https://sarasotamug.com" target="_blank">
-    responsively.app
+    Sarasotamug
   </a>
 </p>
 <br>
@@ -63,7 +63,7 @@
 5. One-click screenshot all your devices.
 6. Hot reloading supported for developers.
 
-Please visit the website to know more about the application - https://responsively.app
+Please visit the website to know more about the application - https://sarasotamug.com
 
 ## Download
 
