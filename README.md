@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  Download Now (free!): <a href="https://responsively.app/download" target="_blank">
+  Download Now (free!): <a href="https://sarasotamug.com" target="_blank">
     responsively.app
   </a>
 </p>
