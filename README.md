@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://responsively.app/assets/img/logo.png" alt="Responsively Logo" width="150">
-  <h1>Responsively App <a href="https://github.com/responsively-org/responsively-app/releases/latest" target="_blank"><img alt="GitHub release" src="https://img.shields.io/github/v/release/responsively-org/responsively-app"></a></h1>
+  <img src="https://sarasotamug.com/wp-content/uploads/2023/11/logo_sarasotamug.webp" alt="Sarasotamug Logo" width="150">
+  <h1>Sarasotamug<a href="https://github.com/responsively-org/responsively-app/releases/latest" target="_blank"><img alt="GitHub release" src="https://img.shields.io/github/v/release/responsively-org/responsively-app"></a></h1>
   <strong>A must-have devtool for web developers for quicker responsive web development. 🚀</strong>
   <h6>Save time by becoming 5x faster!</h6>
 </div>
